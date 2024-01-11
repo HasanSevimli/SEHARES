@@ -1,0 +1,4 @@
+OfficeOpenXml.LicenseException: Please set the ExcelPackage.LicenseContext property. See https://epplussoftware.com/developers/licenseexception
+   at OfficeOpenXml.ExcelPackage.get_Workbook()
+   at OfficeOpenXml.ExcelPackage.CreateBlankWb()
+   at gp2_proje.ciro.ciroexcel(DataTable ciroTable, String excelFilePath) in C:\Users\hasan\OneDrive\Masaüstü\gp2_proje\gp2_proje\ciro.cs:line 111

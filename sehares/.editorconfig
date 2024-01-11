@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0169: 'personel_ekle_form.da' alanı hiçbir zaman kullanılmaz
+dotnet_diagnostic.CS0169.severity = error
